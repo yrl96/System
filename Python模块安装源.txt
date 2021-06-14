@@ -1,0 +1,2 @@
+https://pypi.douban.com/simple
+pip install <Ä£¿é> -i https://pypi.douban.com/simple
